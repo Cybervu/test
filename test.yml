@@ -1,6 +1,6 @@
 ---
-- name: Hello World!
-  hosts: all
+- name: Hello World!jj
+  hosts: test
  
   tasks:
  
